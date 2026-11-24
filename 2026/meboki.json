@@ -1,0 +1,14 @@
+{
+  "name": "Meboki",
+  "url": "https://meboki.com/?ref=indiegoodies#pricing",
+  "description": "Offline grammar checker for Mac that checks English as you type in any app, with an open-weight model running on your Mac so your text never leaves it",
+  "category": "writing",
+  "platforms": ["mac"],
+  "deal": "$10 off the one-time licence: $29 instead of $39 for 1 Mac, no code needed",
+  "pricing": "one-time",
+  "price": { "regular": 39, "sale": 29, "currency": "USD" },
+  "discount": 26,
+  "startDate": "2026-11-21",
+  "endDate": "2026-12-01",
+  "icon": "https://meboki.com/apple-icon.png"
+}
